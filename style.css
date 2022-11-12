@@ -1,0 +1,19 @@
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    background-color: #314d64;
+    padding: 10px;
+}
+  
+  .grid-container > div {
+    background-color: rgba(56, 68, 245, 0.747);
+    text-align: left;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+
+  .grid-container {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+  }
