@@ -17,6 +17,9 @@
   </div>
     
   ##
+  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
+  ##
   <div align="center">
 <img src="https://github.com/PatriciaDamasceno883/Patricia-Damasceno-Geraldo/blob/fa2aaa3dede6469b788af49131e3fe093867fc02/nqGyiz.gif"></a>                           
  </div>              
