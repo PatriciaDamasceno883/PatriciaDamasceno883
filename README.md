@@ -3,9 +3,10 @@
 <div>
   <a href="https://github.com/PatriciaDamasceno883/Patricia-Damasceno-Geraldo/edit/main/README.md">
   <img leight="180cm" src="https://github-readme-stats.vercel.app/api?username=PatriciaDamasceno883&show_icons=true&theme=transparent&include_all_commits=true&count_private-true"/>
-<img leight="180cm" width="400" height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatriciaDamasceno883&layout=compact&langs_count=16&theme=transparent">
-    </div>
-  
+<img leight="180cm" width="400" height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatriciaDamasceno883&layout=compact&langs_count=16&theme=transparent"><br>
+    <img width="70" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+    </div><br>
+  <br>
 
 ##
 <h4 align="center">The Gen z networking:</h4>
