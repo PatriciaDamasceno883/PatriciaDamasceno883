@@ -17,7 +17,7 @@
   </div>
     
   ##
-  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+  ![Snake animation](https://github.com/PatriciaDamasceno883/PatriciaDamasceno883/blob/output/github-contribution-grid-snake.svg)
 
   ##
   <div align="center">
