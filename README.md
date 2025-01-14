@@ -5,7 +5,6 @@
   <img leight="180cm" widht="200" height="175" src="https://github-readme-stats.vercel.app/api?username=PatriciaDamasceno883&show_icons=true&theme=transparent&include_all_commits=true&count_private-true"/>
 <img leight="180cm" width="360" height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatriciaDamasceno883&layout=compact&langs_count=16&theme=transparent"><br>
     <img width="60" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-    <a href="https://www.flaticon.com/free-icons/file-extension" title="file-extension icons">CSS</a>
     <img  width="60" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     </div><br>
   <br>
