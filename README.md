@@ -13,7 +13,7 @@
 ##
 <h4 align="center">The Gen z networking:</h4>
 
-  <div align="justify"> 
+  <div align="center"> 
  <a href="mailto:patricia_dg99@outlook.com? subject=subject text" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   </div>
     
