@@ -1,5 +1,5 @@
 # Olá, eu sou a Patricia 
-<h3>📘Estudante de Análise e Desenvolvimento de Sistemas</h3>
+<h3>📘Formada em Análise e Desenvolvimento de Sistemas</h3>
 <div>
   <a href="https://github.com/PatriciaDamasceno883/Patricia-Damasceno-Geraldo/edit/main/README.md">
   <img leight="180cm" widht="200" height="175" src="https://github-readme-stats.vercel.app/api?username=PatriciaDamasceno883&show_icons=true&theme=transparent&include_all_commits=true&count_private-true"/>
